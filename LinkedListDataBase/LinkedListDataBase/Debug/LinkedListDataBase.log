@@ -1,0 +1,3 @@
+﻿  LinkedListDataBase.cpp
+C:\Users\Даниил\source\repos\LinkedListDataBase\LinkedListDataBase\LinkedListDataBase.cpp(119,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LinkedListDataBase.vcxproj -> C:\Users\Даниил\source\repos\LinkedListDataBase\Debug\LinkedListDataBase.exe
